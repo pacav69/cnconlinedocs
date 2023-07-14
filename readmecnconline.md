@@ -24,9 +24,10 @@ Click on the main screen click  the hook option to see the following options as 
 click on the game name so that it has a tick next to it.
 
 ![cnconlineapp hooka](cnconlineapphook.jpg)
+
 figure 2 hook options
 
-When the hook option is selected then when the game is started the cnconline app will start and then clicking on the game name it will start the game with cnconline app running in the backgroud .
+When the hook option is selected and when the game is started the cnconline app will start and then clicking on the game name it will start the game with cnconline app running in the backgroud this will allow the player to use the login screen ro connect with other players.
 
 ## Example
 An example Kane's Wrath is selected starting the game.
