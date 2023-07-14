@@ -7,7 +7,7 @@ Goto the cncoline website [here]([http](https://cnc-online.net/en/)) and registe
 Remember the cnconline registration details or copy them to a text file.
 
 
-Doownload the cnconline app [here]([https://cnc-online.net/en/download/)
+Doownload the cnconline app [here](https://cnc-online.net/en/download/)
 or from LastOS repo a silent install apz [here](https://www.lastos.org/repo/CNCOnline_v2.0.7_ssApp.apz)
 
 
