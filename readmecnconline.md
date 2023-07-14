@@ -52,4 +52,4 @@ click on log in and this screen will appear as shown in figure 6
 ![cnchome](cnckwhome.jpg)
 figure 6 ONline home
 
-then click on custom match to start playing games with orger players.
+then click on custom match to start playing games with other players.
