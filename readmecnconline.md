@@ -3,7 +3,7 @@
  Here are the instructions for installing and using the app.
 
  ## Installing
-Goto the cncoline website [here]([(https://cnc-online.net/en/)) and register.
+Goto the cncoline website [here](https://cnc-online.net/en/) and register.
 Remember the cnconline registration details or copy them to a text file.
 
 
